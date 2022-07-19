@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Lobster&display=swap');
+#contact{
+    background-color: black;  
+    color: #fff;
+}
+.Row{
+    padding: 50px 0 0 0;
+}
+#contact iframe {
+   text-align: center;
+   margin-left: -100px;
+}
+
+.getin{
+    margin-top: 50px;
+}
+#contact h4{
+    color: #fff;
+    padding-bottom: 20px;
+    font-family: 'Hahmlet', serif;
+    text-align: center;
+    font-size: 30px;
+    
+}
+#contact i{
+    color: rgb(114, 106, 106);
+}
+#contact .BuTton{
+    text-align: center;
+}
+#contact .button1{
+    margin-top: 30px;
+    color: #fff;
+    border: 1px solid #FF5823;
+    background-color: #FF5823;
+    transition: 0.1s all ease-in;
+}
+#contact .button1:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+}
+
+.CheckBox{
+    text-align: center;
+    margin-top: 30px;
+}
+#contact .section_media{
+   text-align: center;
+}
+#contact .section_media i{
+    padding-top: 50px;
+    color: #FF5823;
+}
+#contact .section_media a{
+    color: #fff;
+}
+
+
+#contact .card-footer{
+    margin-top: 40px;
+}
+#contact .c-text p{
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+   
+}
+#contact .c-text a{
+    color: #FF5823;
+}
+
+@media(max-width:767px){
+    #contact iframe {
+        margin-bottom: 15px;
+        margin-left: 1px;
+        height: 315px;
+        width: 100%;
+    }
+}

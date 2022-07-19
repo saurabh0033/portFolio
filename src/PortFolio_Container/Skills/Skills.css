@@ -1,0 +1,42 @@
+
+#features1{
+    width: 100%;
+    padding: 60px 0  60px 0;
+}
+
+.feature1{
+     
+    text-align: center;
+     
+}
+
+.skillUnit{
+    width: 100%;
+    height:100%;
+    padding: 0;
+    margin-bottom: 50px;
+}
+  
+.skill{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    
+}
+  
+.unit{
+    height: 200px;
+    text-align: center;
+    padding:5px 0 5px 0;
+}
+
+
+
+.skill-content h2{
+    padding: 20px;
+    font-size: 16px;
+    color:black;
+    
+}
+
+  

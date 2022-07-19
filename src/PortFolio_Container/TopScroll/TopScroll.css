@@ -1,0 +1,27 @@
+#back-to-top{
+    position: fixed;
+    bottom: 2rem;
+    right:2rem;
+    z-index: 999;
+    display: none;
+    overflow: hidden;
+    cursor: pointer;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    display: block;
+    background-color: #FF5823;
+    color: #fff;
+    border-radius: 0.2rem;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition:0.5s all ease-out;
+    -moz-transition:0.5s all ease-out;
+    -ms-transition:0.5s all ease-out;
+    -o-transition:0.5s all ease-out;
+    transition:0.5s all ease-out;
+}
+#back-to-top:hover{
+    background-color: #F57F17;
+    color: black;
+}
