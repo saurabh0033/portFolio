@@ -74,7 +74,7 @@ class Profile extends React.Component {
                                         Hire Me{" "}
                                     </button>
                                 </a>
-                                <a href="resume.png" download="resume.png">
+                                <a href="Saurabh Chavan.pdf" download="Saurabh Chavan.pdf">
                                     <button className="btn highlighted-btn wow fadeIn" data-wow-delay=".6s" data-wow-duration="3s">Get Resume</button>
                                 </a>
                             </div>
